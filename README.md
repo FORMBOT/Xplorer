@@ -2,7 +2,8 @@
 
 **The Xplorer** is a modular 3D printer kit designed for makers, engineers, and enthusiasts who demand **precision**, **modularity**, and **expandability** from their machines.
 
-![Uploading image.png…]()
+![Render-ISO_IDEX_1](https://github.com/user-attachments/assets/1e8ce789-93dd-45c8-ae9a-fb2dfe1a193c)
+
 
 ---
 
