@@ -18,4 +18,4 @@ Integrated chamber camera
 HDMI touchscreen display
 Convenient access to USB, LAN, and HDMI ports
 The Xplorer is more than a printer – it’s a foundation for innovation. Whether you're a DIY tinkerer or running a print farm, Xplorer delivers the versatility and precision you need.
-![image](https://github.com/user-attachments/assets/96530f20-e542-4463-becd-1d199e97afc7)
+
