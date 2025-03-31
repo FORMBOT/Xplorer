@@ -59,6 +59,17 @@ Ensures consistent and accurate printing results.
 
 ---
 
+## 📐 CAD Models
+
+Download or view the full 3D models of the Xplorer in various configurations:
+
+- [Single Extruder](https://a360.co/4l4AeIB)  
+- [IDEX (Independent Dual Extruder)](https://a360.co/4je1XVK)  
+- [Dual Gantry](https://a360.co/41UjEnr)  
+- [IQEX (Independent Quad Extruder)](https://a360.co/43xH5Eg)
+  
+---
+
 ## 🚀 Innovation-Ready
 
 The **Xplorer** is more than a printer – it’s a **foundation for innovation**. Whether you're a DIY tinkerer or running a print farm, Xplorer delivers the versatility and precision you need.
