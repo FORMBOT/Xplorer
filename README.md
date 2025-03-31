@@ -64,6 +64,7 @@ Ensures consistent and accurate printing results.
 
 Download or view the full 3D models of the Xplorer in various configurations:
 
+V1.0:
 - [Single Extruder](https://a360.co/4l4AeIB)  
 - [IDEX (Independent Dual Extruder)](https://a360.co/4je1XVK)  
 - [Dual Gantry](https://a360.co/41UjEnr)  
