@@ -9,7 +9,12 @@
 
 ## 🔧 Specifications
 
-- **Build Volume:** `400 × 400 × 400 mm`  (*_SINGLE Extruder version_)
+- **Build Volume:**
+     - `400 × 400 × 400 mm`  _SINGLE Extruder version_
+     - `330 × 400 × 400 mm`  _IDEX version / Single Extruder print_
+     - `260 × 400 × 400 mm`  _IDEX version / Dual Extruder print_
+     - `200 × 400 × 400 mm`  _IDEX version / COPY Mode print_
+     - `160 × 400 × 400 mm`  _IDEX version / MIRROR Mode print_
   Large enough for ambitious prints and multi-part projects.
 
 - **Rigid Frame:**  
