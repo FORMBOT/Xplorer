@@ -9,7 +9,7 @@
 
 ## 🔧 Specifications
 
-- **Build Volume:** `400 × 400 × 400 mm`  (*_SINGLE Extruder versio_)
+- **Build Volume:** `400 × 400 × 400 mm`  (*_SINGLE Extruder version_)
   Large enough for ambitious prints and multi-part projects.
 
 - **Rigid Frame:**  
