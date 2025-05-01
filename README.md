@@ -15,6 +15,7 @@
      - `260 × 400 × 400 mm`  _IDEX version / Dual Extruder print_
      - `200 × 400 × 400 mm`  _IDEX version / COPY Mode print_
      - `160 × 400 × 400 mm`  _IDEX version / MIRROR Mode print_
+       
   Large enough for ambitious prints and multi-part projects.
 
 - **Rigid Frame:**  
