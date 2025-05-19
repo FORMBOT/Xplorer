@@ -71,10 +71,10 @@ Ensures consistent and accurate printing results.
 Download or view the full 3D models of the Xplorer in various configurations:
 
 V1.0:
-- [Single Extruder](https://a360.co/4koTL5x)  
-- [IDEX (Independent Dual Extruder)](https://a360.co/4j9PAJE)  
-- [Dual Gantry](https://a360.co/4dqj2tK)  
-- [IQEX (Independent Quad Extruder)](https://a360.co/4jZF3lz)
+- [Single Extruder](https://a360.co/4mo4e2M)  
+- [IDEX (Independent Dual Extruder)](https://a360.co/43B4m7H)  
+- [Dual Gantry](https://a360.co/3FptAwu)  
+- [IQEX (Independent Quad Extruder)](https://a360.co/3F03QqD)
   
 ---
 
