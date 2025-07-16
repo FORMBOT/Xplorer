@@ -78,6 +78,7 @@ Explore detailed documentation and assets for building and configuring your Xplo
 - 🧩 [Slicer Profiles (OrcaSlicer)](https://github.com/FORMBOT/Xplorer_UpdateManager/tree/main/04_Slicer_Profiles/OrcaSlicer)  
 - 🛠️ [STEP files for 3D printed parts](https://github.com/FORMBOT/Xplorer_UpdateManager/tree/main/05_STEP_FILES)
 - 🧰 [MODs – Community and Custom Add-ons](https://github.com/FORMBOT/Xplorer_UpdateManager/tree/main/03_MODs)
+- 💾 [System Image (Releases)](https://github.com/FORMBOT/Xplorer/releases)
 
 ---
 
