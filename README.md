@@ -67,6 +67,20 @@ Ensures consistent and accurate printing results.
 
 ---
 
+## 📁 Project Files & Resources
+
+Explore detailed documentation and assets for building and configuring your Xplorer printer:  
+🔗 **GitHub Repository:** [FORMBOT/Xplorer_UpdateManager](https://github.com/FORMBOT/Xplorer_UpdateManager)
+
+**Most relevant folders:**
+
+- 📘 [Assembly Manual](https://github.com/FORMBOT/Xplorer_UpdateManager/tree/main/06_Manual)  
+- 🧩 [Slicer Profiles (OrcaSlicer)](https://github.com/FORMBOT/Xplorer_UpdateManager/tree/main/04_Slicer_Profiles/OrcaSlicer)  
+- 🛠️ [STEP files for 3D printed parts](https://github.com/FORMBOT/Xplorer_UpdateManager/tree/main/05_STEP_FILES)
+- 🧰 [MODs – Community and Custom Add-ons](https://github.com/FORMBOT/Xplorer_UpdateManager/tree/main/03_MODs)
+
+---
+
 ## 📐 CAD Models
 
 Download or view the full 3D models of the Xplorer in various configurations:
