@@ -86,11 +86,11 @@ Explore detailed documentation and assets for building and configuring your Xplo
 
 Download or view the full 3D models of the Xplorer in various configurations:
 
-V1.0 - 15.07.2025:
-- [Single Extruder](https://a360.co/3Uc77Xz)  
-- [IDEX (Independent Dual Extruder)](https://a360.co/3IwJuXb)  
-- [Dual Gantry](https://a360.co/4eRmFcP)  
-- [IQEX (Independent Quad Extruder)](https://a360.co/3IKFSkn)
+V1.0 - 01.08.2025:
+- [Single Extruder](https://a360.co/4f5ScYB)  
+- [IDEX (Independent Dual Extruder)](https://a360.co/4lO0cQP)  
+- [Dual Gantry](https://a360.co/4kVQElm)  
+- [IQEX (Independent Quad Extruder)](https://a360.co/4kWwrM4)
   
 ---
 
