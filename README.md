@@ -118,7 +118,7 @@ Unauthorized commercial exploitation may result in legal action.
 
 ### ☕ Like this project?
 
-You can upport Dan – every coffee helps keep the printers running smoothly! 😊
+You can support Dan – every coffee helps keep the printers running smoothly! 😊
 
 
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20me%20a%20coffee-%E2%98%95-orange)](https://coff.ee/Dan_3dp)
