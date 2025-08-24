@@ -89,8 +89,12 @@ Download or view the full 3D models of the Xplorer in various configurations:
 V1.0 - 01.08.2025:
 - [Single Extruder](https://a360.co/4f5ScYB)  
 - [IDEX (Independent Dual Extruder)](https://a360.co/4lO0cQP)  
-- [Dual Gantry](https://a360.co/4kVQElm)  
-- [IQEX (Independent Quad Extruder)](https://a360.co/4kWwrM4)
+- [Dual Gantry](https://a360.co/4kVQElm)  (_outdated_)
+- [IQEX (Independent Quad Extruder)](https://a360.co/4kWwrM4)  (_outdated_)
+
+V1.0 - 01.09.2025:
+- [Dual Gantry](https://a360.co/4fP9vgW)  
+- [IQEX (Independent Quad Extruder)](https://a360.co/3JOPlHV)
   
 ---
 
