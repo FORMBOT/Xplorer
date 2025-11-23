@@ -100,7 +100,7 @@ V1.1 - 23.11.2025:
 - [Single Extruder](https://a360.co/3Kem0at)  
 - [IDEX (Independent Dual Extruder)](https://a360.co/3KkaRF9)
 - [Dual Gantry](https://a360.co/44sAOsV)  
-- [IQEX (Independent Quad Extruder)]
+- [IQEX (Independent Quad Extruder)](https://a360.co/48tqsvk) 
   
 ---
 
