@@ -96,8 +96,8 @@ V1.0 - 01.09.2025:
 - [Dual Gantry](https://a360.co/4fP9vgW)  
 - [IQEX (Independent Quad Extruder)](https://a360.co/3JOPlHV)
 
-V1.1 - 23.11.2025:
-- [Single Extruder](https://a360.co/3Kem0at)  
+V1.1 - 15.15.2025:
+- [Single Extruder](https://gmail3433821.autodesk360.com/shares/public/SH90d2dQT28d5b6028111acf9fdd8a4aaf7b)  
 - [IDEX (Independent Dual Extruder)](https://a360.co/3KkaRF9)
 - [Dual Gantry](https://a360.co/44sAOsV)  
 - [IQEX (Independent Quad Extruder)](https://a360.co/48tqsvk) 
